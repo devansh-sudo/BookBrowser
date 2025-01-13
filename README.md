@@ -18,7 +18,7 @@ A React Native mobile application that allows users to browse and filter books, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/book-browser.git
+git clone https://github.com/devansh-sudo/BookBrowser.git
 cd book-browser
 ```
 
